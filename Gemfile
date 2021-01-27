@@ -42,6 +42,7 @@ gem 'jwt', '~> 2.1'
 gem 'rack-cors'
 #another gem here
 #another note
+#what to do
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 #gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
